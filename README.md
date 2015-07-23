@@ -9,4 +9,4 @@ VC+ 2008 Runtimes required.
 
 If shell context menu doesnt appear, restart is helpful...
 
-ps check +how_to +portable folders into program folder
+ps check ***+how_to*** ***+portable*** folders into program folder
