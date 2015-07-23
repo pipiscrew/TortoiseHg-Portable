@@ -11,6 +11,8 @@ If shell context menu doesnt appear, restart is helpful...
 
 ps check ***+how_to*** ***+portable*** folders into program folder
 
+---
+
 [TortoiseHg Developers](http://tortoisehg.bitbucket.org/)
 
 [How to Guide](http://tortoisehg.bitbucket.org/manual/2.0/quick.html)
